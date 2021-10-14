@@ -1,0 +1,8 @@
+p {color:red;background:black;font-weight:bold;text-align:center}
+ol{list-style-type: lower-alpha;}
+ul{list-style-type: square;}
+h2:after{content:'\002A';}
+h2{text-shadow: 5px 5px 10px red;}
+li{color: lightgreen;background: purple;text-align:center;text-shadow: 8px 8px 10px yellow;font-size: x-large; }
+ol{color: lightgreen;background: purple;text-align:right;text-shadow: 8px 8px 10px yellow;font-size: x-large; }
+ul{color: purple;background: black;font-size: larger;}
